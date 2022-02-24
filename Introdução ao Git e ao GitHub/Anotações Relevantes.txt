@@ -1,0 +1,6 @@
+Link https://www.markdownguide.org/basic-syntax/
+
+- Git Bash é um terminal estendido para otimizar o uso do Git.
+- Para clonar um repositório: 
+- Para informar ao Git que o documento sofreu alteração: ao inserir Git Status notamos que o documento esta em vermelho, assim precisamos seguir este comando:
+git add . depois conferir utilizando o git status novamente, o nome do arquivo ficara verde, concluindo assim o commit 
