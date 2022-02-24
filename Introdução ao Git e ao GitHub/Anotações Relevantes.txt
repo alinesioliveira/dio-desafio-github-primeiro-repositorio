@@ -1,6 +1,9 @@
 Link https://www.markdownguide.org/basic-syntax/
 
 - Git Bash é um terminal estendido para otimizar o uso do Git.
-- Para clonar um repositório: 
-- Para informar ao Git que o documento sofreu alteração: ao inserir Git Status notamos que o documento esta em vermelho, assim precisamos seguir este comando:
-git add . depois conferir utilizando o git status novamente, o nome do arquivo ficara verde, concluindo assim o commit 
+
+- Para clonar um repositório: Depois de criar o repositorio no GitHub, copiar o link https, criar uma pasta no pc, abrir o Git Bash da pasta, usar o comando: git clone e adicionar o link https copiado ENTER.
+
+- Para informar ao Git que o documento sofreu alteração: ao inserir Git Status notamos que o documento esta em vermelho, assim precisamos seguir este comando: git add . depois conferir utilizando o git status novamente, o nome do arquivo ficara verde.
+
+- Depois de adicionar no nosso controle de versão local, precisamos fazer o procedimento para adicionar ao GitHub: git commit -m "Inclusão das anotações do curso de Git/GitHub" depois git push origin main
